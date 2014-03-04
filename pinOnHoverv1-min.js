@@ -8,7 +8,7 @@
 // ---------------------------------------------------
 // Author: Septian Rs
 // URL: http://www.bloggerlovetricks.com/
-// Tutorial URL: http://www.bloggerlovetricks.com/2014/01/add-pinterest-pin-it-button-on-image-hover.html
+// Tutorial URL: http://www.bloggerlovetricks.com/2014/01/add-pinteres-pin-it-button-on-image.html
 // Version: 1
 // Created: Jan 2014
 // Updated: 2 Mar 2014
