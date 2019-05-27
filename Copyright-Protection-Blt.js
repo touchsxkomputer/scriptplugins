@@ -1,4 +1,4 @@
-<!-- blogger Content Copy Protection (Copyright Protection) script by septian rs blt -->
+<!-- blogger Content Copy Protection (Copyright Protection) script by septian rs blt - bloggerlovetricks.blogspot.com-->
 
 <div align="center"><noscript>
    <div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
@@ -62,4 +62,4 @@ window.addEventListener("keydown",function (e) {
 				};
 </script>
 
-<!-- blogger Content Copy Protection (Copyright Protection) script by septian rs blt Ends -->
+<!-- blogger Content Copy Protection (Copyright Protection) script by septian rs blt - bloggerlovetricks.blogspot.com Ends -->
